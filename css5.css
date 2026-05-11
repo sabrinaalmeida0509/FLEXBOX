@@ -1,0 +1,2 @@
+.contenedor {display: flex; flex-direction: column;}
+.caja {background-color: rgb(149, 255, 0); border: 2px solid rgb(0, 190, 22); text-align: center;}

@@ -1,0 +1,4 @@
+.contenedor{display: flex;}
+.primero{order: 2;}
+.segundo{order: 0;}
+.tercero{order: -1;}

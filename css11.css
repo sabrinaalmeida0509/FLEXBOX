@@ -1,0 +1,4 @@
+.contenedor{display: flex; height: 200px;}
+.arriba{align-self: flex-start;}
+.medio{align-self: center;}
+.abajo{align-self: flex-end;}

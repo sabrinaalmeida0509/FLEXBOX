@@ -1,0 +1,4 @@
+.contenedor{display: flex; width: 600px; flex-grow: 2;}
+.b{flex-grow: 2; background-color: yellow;}
+.a{flex-grow: 1; background-color: green;}
+.c{flex-grow: 1;background-color: brown;}

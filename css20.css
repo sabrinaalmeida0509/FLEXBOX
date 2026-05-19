@@ -1,0 +1,4 @@
+.chat{display: flex; flex-direction: column;}
+.msg{max-width: 70%;}
+.ajeno{align-self: flex-start;}
+.propio{align-self: flex-end;}

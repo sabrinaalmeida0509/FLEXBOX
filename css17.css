@@ -1,0 +1,4 @@
+.pagina {display: flex; flex-direction: column; min-height: 100vh;}
+.cuerpo {display: flex; flex: 1;}
+.izq, .der {flex: 0 0 200px; background-color: blueviolet;}
+main {flex: 1;}

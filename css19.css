@@ -1,0 +1,4 @@
+.formulario{display: flex; flex-direction: column;}
+.campo{display: flex; align-items: center;}
+.campo label{flex: 0 0 120px;}
+.campo input {flex: 1;}
